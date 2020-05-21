@@ -1,29 +1,74 @@
----
-layout: post
-title: Sample post
-tags: [A Tag, Test, Lorem, Ipsum]
-excerpt_separator: <!--more-->
----
+# 자기소개서
 
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
-Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. 
-<!--more-->
-Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
+- 학번 - 2016108269
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
+- 이름 - 박현범
 
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
+- 나이 - 24
 
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
+  
 
-![Travel]({{ "/assets/img/pexels/travel.jpeg" | relative_url}})
+## 학력
 
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
+- 제주서초등학교 졸업
 
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
+- 제주제일중학교 졸업 
 
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
+- 제주대기고 졸업
 
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
+- 제주대학교 컴퓨터공학과 재학
+
+  
+
+## 사용 언어
+
+- C언어
+
+- Python
+
+  
+
+## 장점
+
+- 모나지 않은 성격
+
+  
+
+## 단점
+
+- 낯을 가림
+
+  
+
+## 취미 및 특기
+
+- 축구 경기를 하기
+
+- 드라마/영화 시청
+
+- 퍼즐 만들기
+
+  
+
+## 목표
+
+- 앱 개발 및 웹 개발 등을 스스로 해낼 수 있게 되는 것입니다.
+
+
+
+## Fork
+
+- https://github.com/hyunbum-2/Java 
+
+  앱 개발을 시도하면서 java의 필요성을 느끼고 java를 공부할 때 참고할 게 많은 거 같아 fork 하였습니다.
+
+  
+
+- https://github.com/hyunbum-2/Spring 
+
+  spring을 공부하기 위해서 무엇을 알아야 하나 알려주어서 fork 하였습니다.
+
+
+
+
+
